@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RyanDoyon
 - 👀 I like computers
 - 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on any code I'm working on
+- 💞️ I’m looking to collaborate on new code
 - 📫 How to reach me (https://www.ryandoyon.com/)
 
 <!---
