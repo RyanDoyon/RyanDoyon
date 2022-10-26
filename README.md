@@ -2,7 +2,7 @@
 - 👀 I like computers
 - 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on new code
-- 📫 How to reach me (https://www.ryandoyon.com/)
+- 📫 https://www.ryandoyon.com/
 
 <!---
 RyanDoyon/RyanDoyon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
