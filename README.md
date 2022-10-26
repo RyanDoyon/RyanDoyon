@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyanDoyon
-- 👀 I’m interested in computers
+- 👀 I like computers
 - 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on any code I'm working on
 - 📫 How to reach me (https://www.ryandoyon.com/)
